@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noora
 - 👀 I’m interested in coding, science and fun spontaneous ideas.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on projects that teach me new things :)
+- 💞️ I’m looking to collaborate on projects that take less than one month to lunch :)
 - 📫 How to reach me: eazadvar [at] uoregon [dot] edu
 
 <!---
