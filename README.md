@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noora
 - 👀 I’m interested in coding, science, and politics. 
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning quantum mechanics
 - 💞️ I’m looking to collaborate on projects regarding structure determination of bio/molecules :)
 - 📫 How to reach me: eazadvar [at] uoregon [dot] edu
 
